@@ -1,6 +1,6 @@
 **SERVICES TERMS AND CONDITIONS**
 
-Last Updated: 2023-08-22
+**Last Updated: 2023-08-29**
 
 These Services Terms and Conditions (these "Terms and Conditions") is a legal agreement between you and Crowdalert, Inc. ("Crowdalert," "we," "us," or "our"). These Terms and Conditions specify the terms under which you may access and use our proprietary platform that is made available to you through our Website (the "Platform") and our app made available to you via third-party platforms such as Slack (the "App"). The Platform and the App are collectively referred to herein as the "Services."
 
@@ -12,7 +12,7 @@ We reserve the right, at our sole discretion, to modify, discontinue, or termina
 
 **THE SECTIONS BELOUW TITLED "BINDING ARBITRATION" AND "CLASS ACTION WAIVER" CONTAIN A BINDING ARBITRATION AGREEMENT AND CLASS ACTION WAIVER. THEY AFFECT YOUR LEGAL RIGHTS.  PLEASE READ THEM.**
 
-Capitalized terms not defined in these Terms and Conditions shall have the meaning set forth in our Privacy Policy.
+Capitalized terms not defined in these Terms and Conditions shall have the meaning set forth in our [Privacy Policy](https://github.com/crowdalert/terms/blob/main/privacy_policy.md).
 
 **1. DESCRIPTION OF THE SERVICES; RIGHT TO ACCESS AND USE THE SERVICES**
 
@@ -28,7 +28,7 @@ In order to use the Platform, your Authorized Users will have to create an accou
 
 **3. USE OF PERSONAL INFORMATION**
 
-Your use of the Services may involve the transmission to us of certain personal information. Our policies with respect to the collection and use of such personal information are governed according to our Privacy Policy (located at [INSERT LINK]), which is hereby incorporated by reference in its entirety.
+Your use of the Services may involve the transmission to us of certain personal information. Our policies with respect to the collection and use of such personal information are governed according to our [Privacy Policy](https://github.com/crowdalert/terms/blob/main/privacy_policy.md), which is hereby incorporated by reference in its entirety.
 
 **4. OWNERSHIP**
 

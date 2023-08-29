@@ -1,6 +1,6 @@
 **PRIVACY POLICY**
 
-**Last Updated: 2023-08-22**
+**Last Updated: 2023-08-29**
 
 We at Crowdalert, Inc. ("Crowdalert," "we," "us," or "our") have created this privacy policy (this "Privacy Policy") because we know that you care about how information you provide to us is used and shared. This Privacy Policy relates to the information collection and use practices of Crowdalert in connection with our website located at [https://www.crowdalert.com/](https://www.crowdalert.com/)(the "Website"), our proprietary platform that is made available to you through our Website (the "Platform"), our app made available to you via third-party platforms such as Slack (the "App"), or when you interact with us in any other way. The Platform and the App are collectively referred to herein as the "Services."
 
@@ -8,9 +8,9 @@ We at Crowdalert, Inc. ("Crowdalert," "we," "us," or "our") have created this pr
 
 This Privacy Policy applies to visitors to the Website, who view only publicly-available content ("Visitors"), customers who have signed up to access and use the Services (the "Customers"), Customer's employees and contractors authorized by Customer to access and use the Platform ("Authorized Users"), and Customer's employees and contractors authorized by Customer to access and use the App ("Customer Personnel").
 
-By visiting our Website, Visitors are agreeing to the terms of this Privacy Policy and the accompanying Website Terms of Use.
+By visiting our Website, Visitors are agreeing to the terms of this Privacy Policy and the accompanying [Website Terms of Use](https://github.com/crowdalert/terms/blob/main/website_terms_of_use.md).
 
-By clicking "I AGREE" when you sign up to use our Services or otherwise manifesting assent to this Privacy Policy, each Customer is agreeing to the terms of this Privacy Policy and the accompanying Services Terms and Conditions.
+By clicking "I AGREE" when you sign up to use our Services or otherwise manifesting assent to this Privacy Policy, each Customer is agreeing to the terms of this Privacy Policy and the accompanying [Services Terms and Conditions](https://github.com/crowdalert/terms/blob/main/services_terms_and_conditions.md).
 
 By clicking "I AGREE" when you sign up to use our Platform or otherwise manifesting assent to this Privacy Policy, each Authorized User is agreeing to the terms of this Privacy Policy and the accompanying Services Terms and Conditions.
 
@@ -134,11 +134,11 @@ This Privacy Policy is effective as of the date stated at the top of this Privac
 
 If you have any questions about this Privacy Policy or to report a privacy issue, please contact us in one of the following ways:
 
-Email: [insert email address]
-
-Telephone: [insert phone number]
+Email: policy@crowdalert.com
 
 Or write to us at:
 
 Crowdalert, Inc.
-[insert address]
+1713 Oak St.
+Alameda, CA
+94501

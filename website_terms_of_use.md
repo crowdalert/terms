@@ -1,6 +1,6 @@
 **TERMS OF USE**
 
-**Last Updated: 2023-08-22**
+**Last Updated: 2023-08-29**
 
 Crowdalert, Inc. ("Crowdalert," or "we," "our," or "us") welcomes you. We invite you to access and use our website located at [https://www.crowdalert.com/](https://www.crowdalert.com/) (the "Website"), subject to the following terms and conditions (the "Terms of Use"). By visiting the Website, you acknowledge that you have read, understood, and agree to be legally bound by these terms of use and the terms and conditions of our privacy policy (the "Privacy Policy"), which are hereby incorporated into these terms of use and made a part hereof by reference (collectively, the "Agreement"). If you do not agree to any of the terms in the agreement, you may not access or use the Website.
 
@@ -12,11 +12,11 @@ In addition to the Website, Crowdalert provides access to its proprietary platfo
 
 **THE SECTIONS BELOW TITLED "BINDING ARBITRATION" AND "CLASS ACTION WAIVER" CONTAIN A BINDING ARBITRATION AGREEMENT, AND CLASS ACTION WAIVER. THEY AFFECT YOUR LEGAL RIGHTS. PLEASE READ THEM.**
 
-Capitalized terms not defined in these Terms of Use shall have the meaning set forth in our Privacy Policy.
+Capitalized terms not defined in these Terms of Use shall have the meaning set forth in our [Privacy Policy](https://github.com/crowdalert/terms/blob/main/privacy_policy.md).
 
 **1. USE OF PERSONAL INFORMATION**
 
-Your use of the Website may involve the transmission to us of certain personal information. Our policies with respect to the collection and use of such personal information are governed according to our Privacy Policy (located at [insert link to privacy policy]),which is hereby incorporated by reference in its entirety.
+Your use of the Website may involve the transmission to us of certain personal information. Our policies with respect to the collection and use of such personal information are governed according to our [Privacy Policy](https://github.com/crowdalert/terms/blob/main/privacy_policy.md),which is hereby incorporated by reference in its entirety.
 
 **2. INTELLECTUAL PROPERTY**
 
