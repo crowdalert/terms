@@ -1,6 +1,6 @@
 **SERVICES TERMS AND CONDITIONS**
 
-**Last Updated: 2023-08-29**
+**Last Updated: 2023-09-04**
 
 These Services Terms and Conditions (these "Terms and Conditions") is a legal agreement between you and Crowdalert, Inc. ("Crowdalert," "we," "us," or "our"). These Terms and Conditions specify the terms under which you may access and use our proprietary platform that is made available to you through our Website (the "Platform") and our app made available to you via third-party platforms such as Slack (the "App"). The Platform and the App are collectively referred to herein as the "Services."
 
@@ -54,7 +54,7 @@ Crowdalert offers and Customers can purchase a monthly or annual subscription fo
 
 By purchasing a Subscription, Customer acknowledges that Customer's Subscription has an initial and recurring payment charge at the then-current Subscription rate, Customer agrees that Crowdalert may submit monthly charges, in advance to Customer's chosen payment method without further authorization from Customer, until Customer provides notice to Customer that Customer wishes to cancel Customer's Subscription or to change Customer's payment method. Customer further accepts responsibility for all recurring charges prior to cancellation, including, where applicable, any charges processed by Crowdalert after the expiration date of Customer's payment card.
 
-Customer may change or terminate Customer's Subscription by emailing us at [insert email address]. If Customer terminates Customer's Subscription, Customer may use Customer's Subscription until the end of the then-current billing cycle, and the Subscription will not be renewed after that period expires. Crowdalert does not refund any pre-paid portion of the Subscription fee. Crowdalert may immediately terminate or suspend Customer's Subscription for any reason or no reason in accordance with these Terms and Conditions, including for failure to pay the applicable fees when due. If we terminate or suspend Customer's Subscription, Customer's right to use any software or content provided in connection with the Subscription is also terminated or suspended (as applicable).
+Customer may change or terminate Customer's Subscription by emailing us at policy@crowdalert.com. If Customer terminates Customer's Subscription, Customer may use Customer's Subscription until the end of the then-current billing cycle, and the Subscription will not be renewed after that period expires. Crowdalert does not refund any pre-paid portion of the Subscription fee. Crowdalert may immediately terminate or suspend Customer's Subscription for any reason or no reason in accordance with these Terms and Conditions, including for failure to pay the applicable fees when due. If we terminate or suspend Customer's Subscription, Customer's right to use any software or content provided in connection with the Subscription is also terminated or suspended (as applicable).
 
 From time to time, Crowdalert may offer free trial of the Services. Crowdalert reserves the right in its sole discretion to stop offering free trial of the Services at any time without any liability to you.
 

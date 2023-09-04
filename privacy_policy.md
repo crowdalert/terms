@@ -1,6 +1,6 @@
 **PRIVACY POLICY**
 
-**Last Updated: 2023-08-29**
+**Last Updated: 2023-09-04**
 
 We at Crowdalert, Inc. ("Crowdalert," "we," "us," or "our") have created this privacy policy (this "Privacy Policy") because we know that you care about how information you provide to us is used and shared. This Privacy Policy relates to the information collection and use practices of Crowdalert in connection with our website located at [https://www.crowdalert.com/](https://www.crowdalert.com/)(the "Website"), our proprietary platform that is made available to you through our Website (the "Platform"), our app made available to you via third-party platforms such as Slack (the "App"), or when you interact with us in any other way. The Platform and the App are collectively referred to herein as the "Services."
 
@@ -124,7 +124,7 @@ As discussed above, third parties such as advertising networks and analytics pro
 
 **IX. Notice to Nevada Residents**
 
-We do not sell your personal information as defined under Nevada law. Nonetheless, if you are a resident of Nevada, you have the right to opt-out of the sale of certain personal information to third parties. You can exercise this right by contacting us at [insert email address] with the subject line "Nevada Do Not Sell Request" and providing us with your name and the email address associated with your account.
+We do not sell your personal information as defined under Nevada law. Nonetheless, if you are a resident of Nevada, you have the right to opt-out of the sale of certain personal information to third parties. You can exercise this right by contacting us at policy@crowdalert.com with the subject line "Nevada Do Not Sell Request" and providing us with your name and the email address associated with your account.
 
 **X. Changes to This Privacy Policy**
 
